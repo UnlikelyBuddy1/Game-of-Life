@@ -26,7 +26,6 @@ If you want the Windows EXE version than :
 If you want to run the source code than :
 - **download** the Github repository as a ZIP
 - **UnZIP** it and open it
-- **Go to** the folder named *"Source code"*
 - **find** the file *"Game of Life.py"*
 - **Run** it with your editor (Python's IDLE, Vscode, etc...)
 
