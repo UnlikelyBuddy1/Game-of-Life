@@ -1,6 +1,7 @@
 # Game-of-Life
 It's a simple simulation of Conway's Game of Life
 
+![image](https://user-images.githubusercontent.com/52712038/91567111-e529ef00-e944-11ea-9b74-185bbbd47672.png)
 ## Getting started
 ### Prerequisites
 There are two ways of running this application, either using an simple ***EXE*** for **Windows** that has to be launched within its folder (because they contain all the python modules, application data etc...) and that requires no installer. 
