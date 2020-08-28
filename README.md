@@ -31,6 +31,7 @@ If you want to run the source code than :
 - **Run** it with your editor (Python's IDLE, Vscode, etc...)
 
 ## How to use 
+- Size to chose the lengh of a 2 by 1 matrix
 - Pause, if you want to pause
 - Reload if you want to generate a random matrix
 - Ones % is the % of "live" vs "dead" cells in the random generated matrix
